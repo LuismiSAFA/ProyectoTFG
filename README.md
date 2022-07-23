@@ -1,6 +1,6 @@
 # ProyectoTFG
 Proyecto fin de grado: Aplicación Android con Python y Kivy, codificación cisterciense.
-**Calificación: 9/10**
+# **Calificación: 9/10**
 
 - Este proyecto fue creado para ser presentado como TFG del ciclo formativo de grado superior de Desarrollo de Aplicaciones Multiplataforma.
 
