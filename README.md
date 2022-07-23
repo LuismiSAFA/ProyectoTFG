@@ -5,6 +5,8 @@ Proyecto fin de grado: Aplicación Android con Python y Kivy, codificación cist
 
 - La solucióon del proyecto presenta un algoritmo capaz de convertir los simbolos cistercienses a números arábigos en forma de aplicación de smartphone para Android.
 
+- Explicación rápida de este sistema de numeración: https://es.frwiki.wiki/wiki/Système_cistercien_de_notation_numérique
+
 - Desarrollado con el IDE de PyCharm, le muestro a continuación los comandos a seguir para su ejecución.
 
 
